@@ -8,8 +8,8 @@
 
 int main() {
 
-    printf("Hello World") ;
+    printf( "Hello World") ; //out put hello word on display
 
 
  return 0 ;
-}
+}//end main fuction
